@@ -1,5 +1,5 @@
 # 🎓 About Me:
-I'm a computer science student at the University of Pennsylvania who is passionate about exploring the realms of full stack development and machine learning.
+Hi! I'm a computer science student at the University of Pennsylvania who is passionate about exploring the realms of full stack development and machine learning.
 
 
 # 🌐 Connect with me:
